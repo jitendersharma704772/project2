@@ -38,7 +38,6 @@ body{box-sizing:border-box; position:relative; font-size:1.6rem;}
 
 
 .pkg{width:100%; min-height:200px; padding:15px; border:1px solid #ccc; margin-bottom:30px;}
-.popup1{}
 
 .d-flex-row{width:100%; display:flex; align-items:center; flex-wrap:wrap; background:#eee;}
 .d-flex-row .d-flex-col{display:flex; width:25%; padding:10px 10px; }
