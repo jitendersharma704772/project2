@@ -9,6 +9,8 @@ body{box-sizing:border-box; position:relative; font-size:1.6rem;}
 .text4{font-size:4rem;}
 .text5{font-size:5rem;}
 
+
+
 .ul-menu{display:inline-block; list-style:none; }
 .ul-menu li{margin:10px 20px; display:inline-block; cursor:pointer;}
 .id-box{width:100%; float:left; margin-bottom:20px;}
